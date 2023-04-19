@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Funny-spinning-loader/static/css/main.728e0976.css",
+    "main.js": "/Funny-spinning-loader/static/js/main.58aa5663.js",
+    "index.html": "/Funny-spinning-loader/index.html",
+    "main.728e0976.css.map": "/Funny-spinning-loader/static/css/main.728e0976.css.map",
+    "main.58aa5663.js.map": "/Funny-spinning-loader/static/js/main.58aa5663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728e0976.css",
+    "static/js/main.58aa5663.js"
+  ]
+}
