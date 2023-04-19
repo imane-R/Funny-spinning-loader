@@ -16,7 +16,7 @@
   top: 1.7em;
   left: 1.7em;
   background-color: transparent;
-  border-left: 0.25em solid whitesmoke;
+  border-left: 0.25em solid white;
   transform: rotate(45deg);
 }
 
@@ -27,7 +27,7 @@
   top: -3.3em;
   left: 6.6em;
   background-color: transparent;
-  border-left: 0.25em solid whitesmoke;
+  border-left: 0.25em solid white;
   transform: rotate(-45deg);
 }
 
@@ -38,7 +38,7 @@
   width: 1em;
   height: 1em;
   background-color: transparent;
-  border: 0.25em solid whitesmoke;
+  border: 0.25em solid white;
   border-radius: 15%;
   transform: translate(0, -1em) rotate(-45deg);
   animation: push 3.5s cubic-bezier(0.79, 0, 0.47, 0.3) infinite;
